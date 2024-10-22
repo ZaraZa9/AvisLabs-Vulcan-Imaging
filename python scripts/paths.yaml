@@ -1,0 +1,7 @@
+train: S:\Downloads\Vision\train
+val: S:\Downloads\Vision\val
+
+nc: 1
+
+names:
+  - person 
